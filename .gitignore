@@ -4,6 +4,8 @@ terraform/.terraform/
 terraform/terraform.tfstate
 terraform/terraform.tfstate.*
 terraform/*.tfvars
+smtp-values.yaml
+monitoring-values.yaml
 
 grafana-password.txt
 *.secret.yaml
